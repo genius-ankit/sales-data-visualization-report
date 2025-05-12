@@ -46,8 +46,8 @@ This project involved uploading the dataset into **Julius AI** and using natural
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitroshan13/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.com)  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white)](https://ankitroshan.vercel.app/)  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/genius_ankit)
 
 ---
 
