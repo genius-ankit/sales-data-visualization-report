@@ -29,6 +29,4 @@ This project involved uploading the dataset into **Julius AI** and using natural
 
 ---
 
-## 📌 Sample Visuals from the Report
 
-### ✅ Total Sales Per Month
