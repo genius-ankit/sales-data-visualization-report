@@ -34,31 +34,21 @@ This project involved uploading the dataset into **Julius AI** and using natural
 | Tool       | Purpose                          |
 |------------|----------------------------------|
 | **Julius AI** | Natural language-based data analysis |
+| **Python**   | Data processing and analysis      |
+| **Excel**    | Data visualization and manipulation |
 | **CSV**     | Raw data format                 |
 | **PDF**     | Report documentation            |
-
----
-
-## 📌 Project Purpose
-
-> This project is part of my journey into **Data Analytics** and supports applications to roles such as **Decision Analytics Associate at ZS Associates**. It showcases my understanding of business data, visualization, and insight generation using AI-powered tools.
-
----
-
-## ✨ What I Learned
-
-- How to structure and clean raw data for analytics
-- Using Julius AI to derive insights without writing code
-- How to communicate results through visualization
-- Basics of time-series sales analysis
 
 ---
 
 ## 🙋‍♂️ Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)  
+- 🌐 [Portfolio](https://yourportfolio.com)  
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.com)  
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 
 ---
@@ -66,4 +56,7 @@ This project involved uploading the dataset into **Julius AI** and using natural
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+
+---
+
 
