@@ -43,9 +43,7 @@ This project involved uploading the dataset into **Julius AI** and using natural
 
 ## 🙋‍♂️ Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)  
-- 🌐 [Portfolio](https://yourportfolio.com)  
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.com)  
