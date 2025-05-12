@@ -29,4 +29,41 @@ This project involved uploading the dataset into **Julius AI** and using natural
 
 ---
 
+## 🚀 Tools & Technologies Used
+
+| Tool       | Purpose                          |
+|------------|----------------------------------|
+| **Julius AI** | Natural language-based data analysis |
+| **CSV**     | Raw data format                 |
+| **PDF**     | Report documentation            |
+
+---
+
+## 📌 Project Purpose
+
+> This project is part of my journey into **Data Analytics** and supports applications to roles such as **Decision Analytics Associate at ZS Associates**. It showcases my understanding of business data, visualization, and insight generation using AI-powered tools.
+
+---
+
+## ✨ What I Learned
+
+- How to structure and clean raw data for analytics
+- Using Julius AI to derive insights without writing code
+- How to communicate results through visualization
+- Basics of time-series sales analysis
+
+---
+
+## 🙋‍♂️ Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)  
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 
